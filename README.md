@@ -16,7 +16,7 @@ Better in the long run | Simplicity Works Against you
 
 I suppose gamemaker does help make game prototypes faster so my idea is to prototype games in Gamemaker and if I think they can be better use I'll use MonoGame instead :)  
 Because as I once said...   
-> Game not epic?
+> Game not epic?  
 > Make epic no matter what the cost.
 
 ## Some Sneek Peaks
