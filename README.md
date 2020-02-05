@@ -19,10 +19,10 @@ Because as I once said...
 > Game not epic?  
 > Make epic no matter what the cost.
 
-## Some Sneak Peeks
+## Sneak Peeks
 ![KatanaGame](https://github.com/KPrzeczek/Gamemaker-Projects/blob/master/KananaGameSneakPeek.png)
 
-## Game List CheckList
+## Game CheckList
 - [x] Pong
 - [x] Asteroids
 - [x] Wierd Duck Game
