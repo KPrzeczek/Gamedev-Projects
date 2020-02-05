@@ -19,8 +19,8 @@ Because as I once said...
 > Game not epic?  
 > Make epic no matter what the cost.
 
-## Some Sneek Peaks
-![KatanaGame](url)
+## Some Sneak Peeks
+![KatanaGame](https://github.com/KPrzeczek/Gamemaker-Projects/blob/master/KananaGameSneakPeek.png)
 
 ## Game List CheckList
 - [x] Pong
