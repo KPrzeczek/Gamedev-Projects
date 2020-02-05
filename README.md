@@ -19,6 +19,11 @@ I suppose gamemaker does help make game prototypes faster so my idea is to proto
 ## Some Sneek Peaks
 
 ## Game List CheckList
+- [x] Pong
+- [x] Asteroids
+- [x] Wierd Duck Game
+- [x] Wierd Rip-off of Flappy Bird
+- [ ] The Katana Game in sneak peeks
 
 ### End Note
 ======
