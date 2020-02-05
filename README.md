@@ -11,12 +11,16 @@ C# | GML
 ------------ | -------------
 Takes a bit to setup | Godly at prototyping
 Object Oriented | Enum Indexed Arrays
-Better in the long run | Simplicity Works Against you
 Type Safety | No Type Safety
+Better in the long run | Simplicity Works Against you
 
-I suppose gamemaker does help make game prototypes faster so my idea is to prototype games in Gamemaker and if I think they can be better use I'll use MonoGame instead :)
+I suppose gamemaker does help make game prototypes faster so my idea is to prototype games in Gamemaker and if I think they can be better use I'll use MonoGame instead :)  
+Because as I once said...   
+> Game not epic?
+> Make epic no matter what the cost.
 
 ## Some Sneek Peaks
+![KatanaGame](url)
 
 ## Game List CheckList
 - [x] Pong
@@ -26,7 +30,6 @@ I suppose gamemaker does help make game prototypes faster so my idea is to proto
 - [ ] The Katana Game in sneak peeks
 
 ### End Note
-======
 I might update this one time to describe all of the projects but that's not a top priority right now.  
 Currently working on some big thing but not sure if it's going to go anywhere so I'm just going to keep uploading small games.  
 
