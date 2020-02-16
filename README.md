@@ -14,7 +14,7 @@ Object Oriented | Enum Indexed Arrays
 Type Safety | No Type Safety
 Better in the long run | Simplicity Works Against you
 
-# Enum Indexing  
+### Enum Indexing  
 Sounds confusing but it's really just creating pseudo-classes using enums. This means you can have something like this:  
 ```
 enum ClassName {
