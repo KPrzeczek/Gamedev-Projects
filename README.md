@@ -16,7 +16,7 @@ Better in the long run | Simplicity Works Against you
 
 ### Enum Indexing  
 Sounds confusing but it's really just creating pseudo-classes using enums. This means you can have something like this:  
-```
+```cpp
 enum ClassName {
   variable1,
   variable2
