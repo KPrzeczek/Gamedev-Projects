@@ -14,6 +14,16 @@ Object Oriented | Enum Indexed Arrays
 Type Safety | No Type Safety
 Better in the long run | Simplicity Works Against you
 
+# Enum Indexing  
+Sounds confusing but it's really just creating pseudo-classes using enums. This means you can have something like this:  
+```
+enum ClassName {
+  variable1,
+  variable2
+}
+```  
+And then treat that like a regular class, obviously there's the problem with type-safety but that's as close as you can get to a class in gamemaker.  
+
 I suppose gamemaker does help make game prototypes faster so my idea is to prototype games in Gamemaker and if I think they can be better use I'll use MonoGame instead :)  
 Because as I once said...   
 > Game not epic?  
