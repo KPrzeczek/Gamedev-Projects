@@ -29,6 +29,12 @@ Because as I once said...
 > Game not epic?  
 > Make epic no matter what the cost.
 
+## Some Random stuff going on (trying to update this whenever I can)  
+- [ ] Working on katana game
+- [x] Learning Godot
+- [ ] Using C++
+- [ ] Using C# with MonoGame
+
 ## Sneak Peeks
 ![KatanaGame](https://github.com/KPrzeczek/Gamemaker-Projects/blob/master/KananaGameSneakPeek.png)
 
