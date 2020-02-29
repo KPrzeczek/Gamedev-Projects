@@ -35,6 +35,9 @@ Because as I once said...
 - [ ] Using C++
 - [ ] Using C# with MonoGame
 
+# Random Notes
+ - Wow godot is really nice!  
+
 ## Sneak Peeks
 ![KatanaGame](https://github.com/KPrzeczek/Gamemaker-Projects/blob/master/KananaGameSneakPeek.png)
 
