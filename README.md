@@ -31,9 +31,9 @@ Because as I once said...
 
 ## Some Random stuff going on (trying to update this whenever I can)  
 - [ ] Working on katana game
-- [x] Learning Godot
+- [ ] Learning Godot
 - [ ] Using C++
-- [ ] Using C# with MonoGame
+- [x] Using C# with MonoGame
 
 # Random Notes
  - Wow godot is really nice!  
