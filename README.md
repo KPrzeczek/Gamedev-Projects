@@ -24,22 +24,17 @@ enum ClassName {
 ```  
 And then treat that like a regular class, obviously there's the problem with type-safety but that's as close as you can get to a class in gamemaker.  
 
-I suppose gamemaker does help make game prototypes faster so my idea is to prototype games in Gamemaker and if I think they can be better use I'll use MonoGame instead :)  
-Because as I once said...   
-> Game not epic?  
-> Make epic no matter what the cost.
+I suppose gamemaker does help make game prototypes faster so my idea is to prototype games in Gamemaker and if I think they can be better use I'll use MonoGame instead.
 
 ## Some Random stuff going on (trying to update this whenever I can)  
 - [ ] Working on katana game
 - [ ] Learning Godot
 - [ ] Using C++
-- [x] Using C# with MonoGame
+- [x] Using C# with MonoGame 
 
-# Random Notes
- - Wow godot is really nice!  
-
-## Sneak Peeks
-![KatanaGame](https://github.com/KPrzeczek/Gamemaker-Projects/blob/master/KananaGameSneakPeek.png)
+## Game Photos
+![KatanaGame](https://github.com/KPrzeczek/Gamedev-Projects/blob/master/KananaGameSneakPeek.png)
+![Breakout](https://github.com/KPrzeczek/Gamedev-Projects/blob/master/Breakout_Game.png)
 
 ## Game CheckList
 - [x] Pong
