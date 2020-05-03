@@ -46,7 +46,6 @@ Whoops sorry forgot to put in some credits since some games are literally just c
 - [x] Asteroids
 - [x] Wierd Duck Game
 - [x] Wierd Rip-off of Flappy Bird
-- [ ] The Katana Game in sneak peeks
 
 ### End Note
 I might update this one time to describe all of the projects but that's not a top priority right now.  
