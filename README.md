@@ -28,6 +28,7 @@ I suppose gamemaker does help make game prototypes faster so my idea is to proto
 
 Whoops sorry forgot to put in some credits since some games are literally just copies:
  - IDoz :: https://www.youtube.com/user/Pixelate98
+   - Made the Katana Game thingy
  - Flappy Bird obv not mine
 
 ## Some Random stuff going on (trying to update this whenever I can)  
