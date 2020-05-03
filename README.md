@@ -27,7 +27,6 @@ And then treat that like a regular class, obviously there's the problem with typ
 I suppose gamemaker does help make game prototypes faster so my idea is to prototype games in Gamemaker and if I think they can be better use I'll use MonoGame instead.
 
 ## Some Random stuff going on (trying to update this whenever I can)  
-- [ ] Working on katana game
 - [ ] Learning Godot
 - [x] Using C++ (w/ SFML)
 - [ ] Using C# with MonoGame 
