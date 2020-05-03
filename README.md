@@ -6,13 +6,6 @@ I also am currently learning a C# library called MonoGame so thats why I'm not r
 ## Heres why I chose to learn C#
 I chose to learn C# MonoGame instead of Javas LibGDX (LWJGL3 is much more complex) is because I'm more familiar with C syntax (also chose it over SFML and C++ because SFML is more like a generic purpose library that's not just for games, and so theres a little bit more you have to do to get the same results as MonoGame). Another reason I chose MonoGame over LibGDX is because MonoGame simply has better support for... everything? SFX Work better and input is generally handled easier in my experience, though I'm sure I'm probably doing something wrong in LibGDX. Anyway back on track with why I'm learning it... I started learning it after Gamemakers GML (***G***ame***M***aker ***L***anguage) since object oriented things like inventory systems are a pain to do in gamemaker since it features no object orientation and instead you have to use Enum indexed arrays. Another reason is the fact that GML, much like JavaScript, has no type safety. That's again a huge problem but not that bad if you know what your doing.
 
-C# | GML
------------- | -------------
-Takes a bit to setup | Godly at prototyping
-Object Oriented | Enum Indexed Arrays
-Type Safety | No Type Safety
-Better in the long run | Simplicity Works Against you
-
 ### Enum Indexing  
 Sounds confusing but it's really just creating pseudo-classes using enums. This means you can have something like this:  
 ```cpp
@@ -36,8 +29,8 @@ I suppose gamemaker does help make game prototypes faster so my idea is to proto
 ## Game CheckList
 - [x] Pong
 - [x] Asteroids
-- [x] Wierd Duck Game
-- [x] Wierd Rip-off of Flappy Bird
+- [x] Weird Duck Game
+- [x] Weird Rip-off of Flappy Bird
 
 ### End Note
 I might update this one time to describe all of the projects but that's not a top priority right now.  
