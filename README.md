@@ -20,8 +20,8 @@ I suppose gamemaker does help make game prototypes faster so my idea is to proto
 
 ## Some Random stuff going on (trying to update this whenever I can)  
 - [ ] Learning Godot
-- [x] Using C++ (w/ SFML)
-- [ ] Using C# with MonoGame 
+- [~] Using C++ (w/ SFML)
+- [x] Using C# with MonoGame 
 
 ## Game Photos
 ![Breakout](https://github.com/KPrzeczek/Gamedev-Projects/blob/master/Breakout_Game.png)
