@@ -35,5 +35,6 @@ I suppose gamemaker does help make game prototypes faster so my idea is to proto
 ### End Note
 I might update this one time to describe all of the projects but that's not a top priority right now.  
 Currently working on some big thing but not sure if it's going to go anywhere so I'm just going to keep uploading small games.  
+<sub>21/03/2021 note: still working on the big thing, it's just in a private repo...</sub>
 
 ~ Krys
